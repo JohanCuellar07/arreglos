@@ -220,8 +220,6 @@ function pagoTotal(pdiasTrabajados, pvalorDia){
     return pagoSueldo;
 }
 
-
-
 let saludNom = 0;
 let pensionNom = 0;
 let arlNom = 0;
